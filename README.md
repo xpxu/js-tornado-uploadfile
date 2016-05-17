@@ -3,4 +3,3 @@
 issues:
 ======
 1. pass file as ArrayBuff into worker 
-2. 
